@@ -18,7 +18,7 @@ PostgreSQL first. Also DuckDB, SQLite and Oracle Fusion (OTBI). macOS and Window
   </picture>
 </p>
 
-> **Status: early (0.4.x).** Used every day by its author, but young: expect rough edges. All screenshots use invented data.
+> **Status: early release.** Used every day by its author, but young: expect rough edges. All screenshots use invented data.
 
 ## Install
 
